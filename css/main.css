@@ -11,8 +11,8 @@ body {
 
 .spinner {
   border-radius: 50%;
-  width: 1em;
-  height: 1em;
+  width: 5em;
+  height: 5em;
   background-image:
     linear-gradient(to top, #cd3820, #cd3820),
     linear-gradient(to top, #fcb201, #fcb201),
